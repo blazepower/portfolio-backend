@@ -1,0 +1,109 @@
+[
+  {
+    "title": "React Music Player",
+    "img": "images/music_player.png",
+    "url": "/project/player",
+    "details": [
+      {
+        "title": "Technology",
+        "description": "React, Javascript, Typescript, SCSS, Azure Functions"
+      }
+    ]
+  },
+  {
+    "title": "Intelliquote",
+    "img": "images/Intelliquote.png",
+    "url": "/project/intelliquote",
+    "details": [
+      {
+        "title": "Technology",
+        "description": "React, Javascript, Java, CSS, Spring Boot"
+      }
+    ]
+  },
+  {
+    "title": "SwagAI",
+    "img": "images/swagai.png",
+    "url": "/project/swag",
+    "details": [
+      {
+        "title": "Technology",
+        "description": "React"
+      }
+    ]
+  },
+  {
+    "title": "NeverAlone",
+    "img": "images/neveralone.png",
+    "url": "/project/neveralone",
+    "details": [
+      {
+        "title": "Technology",
+        "description": "React, Javascript, Java, Spring Boot, CSS"
+      }
+    ]
+  },
+  {
+    "title": "Bot-o-Matic",
+    "img": "images/botomatic.png",
+    "url": "/project/botmatic",
+    "details": [
+      {
+        "title": "Technology",
+        "description": "Angular, Typescript, Java, Spring Boot"
+      }
+    ]
+  },
+  {
+    "title": "Florist Frenzy",
+    "img": "images/FloristFrenzy.png",
+    "url": "/project/florist",
+    "details": [
+      {
+        "title": "Technology",
+        "description": "C#, Unity"
+      }
+    ]
+  },
+  {
+    "title": "MURL",
+    "img": "images/murlLogo.png",
+    "url": "/project/murl",
+    "details": [
+      {
+        "title": "Description",
+        "description": "Android application built to seamlessly open printed urls via a phone's camera or gallery"
+      },
+      {
+        "title": "Technology",
+        "description": "Java, Android, Firebase"
+      },
+      {
+        "title": "Awards",
+        "description": "Won \"Best in Tech\" at the 2019 WelcomeBackHack in Cleveland, OH"
+      }
+    ]
+  },
+  {
+    "title": "Automated Start & Stop Virtual Machines",
+    "img": "images/Functions.png",
+    "url": "/project/functions",
+    "details": [
+      {
+        "title": "Technology",
+        "description": "C#, Azure Functions"
+      }
+    ]
+  },
+  {
+    "title": "Machine Learning Fact Checker",
+    "img": "images/Tweet_data.png",
+    "url": "/project/facts",
+    "details": [
+      {
+        "title": "Technology",
+        "description": "Python, Pandas, Tensorflow, Keras"
+      }
+    ]
+  }
+]

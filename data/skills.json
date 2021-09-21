@@ -1,0 +1,45 @@
+[
+  {
+    "icon": [
+      "fab",
+      "angular"
+    ],
+    "title": "Angular",
+    "content": "Two years of experience with Angular"
+  },
+  {
+    "icon": ["fab","java"],
+    "title": "Java",
+    "content": "Five years of experience in Java and Spring Boot"
+  },
+  {
+    "icon": ["fab","android"],
+    "title": "Android",
+    "content": "One year of experience with Android dev using Java and Kotlin"
+  },
+  {
+    "icon": ["fas","terminal"],
+    "title": "C#",
+    "content": "Three years of experience using C# and .Net"
+  },
+  {
+    "icon": ["fab","react"],
+    "title": "React",
+    "content": "Three years of experience using React"
+  },
+  {
+    "icon": ["fab","python"],
+    "title": "Python",
+    "content": "Three years of experience with Python"
+  },
+  {
+    "icon": ["fab","docker"],
+    "title": "Containerization",
+    "content": "One year of experience with Docker and Kubernetes"
+  },
+  {
+    "icon": ["fas","cloud"],
+    "title": "Go",
+    "content": "One year of experience with Go"
+  }
+]

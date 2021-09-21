@@ -1,0 +1,22 @@
+[
+  {
+    "header": "Microsoft",
+    "date": "Summer 2021",
+    "content": "Worked to enable companies to embrace the hybrid cloud model as a member of the Azure Arc Enabled Kubernetes Team \n Planned, designed, implemented, deployed, and tested a notification model to apply FluxV2 Configurations to Arc Enabled Kubernetes clusters reducing wasted compute by over 350% and increasing application speed by 90% using C# & Golang"
+  },
+  {
+    "header": "Altec Inc.",
+    "date": "2020 - Present",
+    "content": "PIT Bandicoots: \n Developed and deployed the final phase of the \"Configurable Checksheets\" application leading to over $2.1 million added benefit to the business \n \t-Configurable Checksheets allowed factory associates easy access to the instructions and customer requests for the development of custom utility trucks \n Developed and deployed the initial deliverable for the Audit Application leading to over $800 thousand added benefit for the business \n \t-The Audit application allowed auditors to determine whether trucks had been built safely while following all standard and requested protocols and instructions"
+  },
+  {
+    "header": "Altec Inc.",
+    "date": "Summer 2020",
+    "content": "IS Intern Team: \n Created and deployed an application allowing all company associates to view basic information about any build job \n Designed and implemented an interface for a new company-wide system for the storage and management of high quality photographs"
+  },
+  {
+    "header": "Breakthrough Electrolytes for Energy Storage",
+    "date": "2020 - Present",
+    "content": "Maintained and update the webpage for the BEES EFRC \n \t-Increased traffic from 100 views to over 2000 views per month \n Scripted a means of data archival, display, and delivery to the Department of Energy"
+  }
+]
