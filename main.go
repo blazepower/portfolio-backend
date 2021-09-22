@@ -2,26 +2,26 @@ package main
 
 import (
 	"fmt"
-	Handlers2 "github.com/portfolio/src/Handlers"
+	"github.com/blazepower/portfolio-backend/Handlers"
 	"net/http"
 
 	"github.com/gorilla/mux"
 )
 
 func main() {
-	fmt.Println("http server listening on port 1000")
+	fmt.Println("http server listening on port 8080")
 	handleRequests()
 }
 
 func handleRequests() {
 	router := mux.NewRouter().StrictSlash(true)
 
-	router.HandleFunc("/skills", Handlers2.GetAllSkills)
-	router.HandleFunc("/projects", Handlers2.GetAllProjectDetails)
-	router.HandleFunc("/education", Handlers2.GetAllEducation)
-	router.HandleFunc("/experience", Handlers2.GetAllExperience)
+	router.HandleFunc("/skills", Handlers.GetAllSkills)
+	router.HandleFunc("/projects", Handlers.GetAllProjectDetails)
+	router.HandleFunc("/education", Handlers.GetAllEducation)
+	router.HandleFunc("/experience", Handlers.GetAllExperience)
 
-	err := http.ListenAndServe(":1000", router)
+	err := http.ListenAndServe(":8080", router)
 	if err != nil {
 		panic(err)
 	}
